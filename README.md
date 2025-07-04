@@ -1,6 +1,6 @@
 # Stock Market News Analyzer with AI Insights
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f78b2021-7071-4eb6-a3f3-0efebeaf1879)
 
 
 ## Overview
