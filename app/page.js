@@ -195,8 +195,9 @@ export default function Home() {
               </div>
               <h3 className="text-lg font-medium text-gray-900 mb-2">Custom Alerts Coming Soon</h3>
               <p className="text-gray-600">
-                We're working on a powerful alert system to notify you about important market movements and news related to your portfolio.
-              </p>
+  We&apos;re working on a powerful alert system to notify you about important market movements and news related to your portfolio.
+</p>
+
             </div>
           </div>
         )}
