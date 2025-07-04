@@ -1,6 +1,7 @@
 # Stock Market News Analyzer with AI Insights
 
-![Project Screenshot](./public/screenshot.png)
+![Uploading image.png…]()
+
 
 ## Overview
 
